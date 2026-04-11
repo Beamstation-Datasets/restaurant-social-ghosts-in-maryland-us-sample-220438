@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Maryland, US",
+  "export_job_id": "78780b40-323f-43a7-8b2f-b1aeab362ddc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 220438,
+  "location_name": "Maryland",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-maryland-us-sample-220438",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/220438/beamstation_220438_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_pct": 9.38,
+  "sample_records": 12,
+  "sample_sha256": "1ce818de5af77ed0ea842f5df39b723c78ada83a22962b81de3e4398c96913b4",
+  "sample_size_bytes": 59316,
+  "total_records": 128,
+  "updated_at": "2026-04-08T05:17:10.308605+00:00"
+}
