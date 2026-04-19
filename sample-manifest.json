@@ -1,12 +1,12 @@
 {
-  "export_job_id": "78780b40-323f-43a7-8b2f-b1aeab362ddc",
+  "export_job_id": "cc84cc6e-d51c-4ba7-9133-79d55370bb74",
   "id_short": 220438,
-  "published_at": "2026-04-11T19:28:16Z",
+  "published_at": "2026-04-19T07:46:34Z",
   "repo_name": "restaurant-social-ghosts-in-maryland-us-sample-220438",
   "sample_asset_name": "beamstation_220438_restaurants-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/220438/beamstation_220438_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "1ce818de5af77ed0ea842f5df39b723c78ada83a22962b81de3e4398c96913b4",
-  "sample_size_bytes": 59316,
-  "total_records": 128
+  "sample_records": 11,
+  "sample_sha256": "198e9990f7c9ce25dc30418542d0bafe4599bc64de66c4f6c27c54636bba9627",
+  "sample_size_bytes": 54313,
+  "total_records": 116
 }
