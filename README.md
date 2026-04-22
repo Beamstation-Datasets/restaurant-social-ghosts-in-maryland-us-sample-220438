@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Maryland, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `220438` |
 | Location | Maryland |
 | Category | Restaurants |
-| Full dataset size | 116 records |
-| Free sample size | 11 records (9.48%) |
-| Last export | 2026-04-15T09:35:58.376377+00:00 |
+| Full dataset size | 25 records |
+| Free sample size | 2 records (8.0%) |
+| Last export | 2026-04-22T16:51:59.328815+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-maryland-us-sample-220438/releases/download/sample-latest/beamstation_220438_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
